@@ -9,5 +9,7 @@ The goal of this project is to build a predictive model that estimates bulldozer
 This type of prediction can help:
 
 1.Equipment dealers set competitive prices
+
 2.Buyers make informed decisions
+
 3.Auction platforms improve pricing strategies
