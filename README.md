@@ -16,9 +16,15 @@ This type of prediction can help:
 
 
 Tech Stack
+
 Python
+
 Pandas – Data manipulation
+
 NumPy – Numerical operations
-Matplotlib / Seaborn – Data visualization
+
+Matplotlib  – Data visualization
+
 Scikit-learn – Machine learning models
-Jupyter Notebook / Streamlit (optional for UI)
+
+Jupyter Notebook
