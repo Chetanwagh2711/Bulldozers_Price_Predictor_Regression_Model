@@ -31,15 +31,15 @@ Jupyter Notebook
 
 Workflow
 
-Data Loading
-Data Cleaning
-Handling missing values
-Converting date columns
-Feature Engineering
-Extracting year, month from dates
-Encoding categorical variables
-Model Selection
-Random Forest Regressor
-Model Training
-Evaluation
+Data Loading- 
+Data Cleaning- 
+Handling missing values- 
+Converting date columns- 
+Feature Engineering- 
+Extracting year, month from dates- 
+Encoding categorical variables- 
+Model Selection- 
+Random Forest Regressor- 
+Model Training- 
+Evaluation- 
 RMSLE (Root Mean Squared Log Error)
