@@ -13,3 +13,12 @@ This type of prediction can help:
 2.Buyers make informed decisions
 
 3.Auction platforms improve pricing strategies
+
+
+Tech Stack
+Python
+Pandas – Data manipulation
+NumPy – Numerical operations
+Matplotlib / Seaborn – Data visualization
+Scikit-learn – Machine learning models
+Jupyter Notebook / Streamlit (optional for UI)
