@@ -15,7 +15,7 @@ This type of prediction can help:
 3.Auction platforms improve pricing strategies
 
 
-Tech Stack
+Tech Stack :
 
 Python
 
