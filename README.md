@@ -25,7 +25,7 @@ NumPy – Numerical operations
 
 Matplotlib  – Data visualization
 
-Scikit-learn – Machine learning models- RandomForestRegressor()
+Scikit-learn – Machine learning models - RandomForestRegressor()
 
 Jupyter Notebook
 
